@@ -1,9 +1,9 @@
 ## 👤 Sobre mi
 
-- 👋 Hola! Gracias por visitar mi perfil! Soy Tomi, tengo 22 años, un desarrollador independiente que ama los desafios.
+- 👋 Hola! Gracias por visitar mi perfil! Soy Tomi, tengo 23 años, un desarrollador independiente que ama los desafios.
 - 💡 Me gusta bastante el reto de crear soluciones a distintos problemas de la vida cotidiana.
 - 🤖 Siempre busco la mejor forma de automatizar procesos obteniendo el mejor resultado posible.
-- 🎓 Estoy actualmente estudiando Licenciatura en Gestion de TI
+- 🎓 Estoy actualmente estudiando Licenciatura en Gestion de TI.
 
 ## 📊 Mis Habilidades
 ### 💻 Lenguajes
